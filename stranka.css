@@ -75,7 +75,6 @@ button{
     font-weight: bold;
     cursor: pointer;
     transition: 0.2s;
-    text-decoration: none;
 }
 
 .bar{
@@ -253,67 +252,67 @@ button{
 }
 
 #item7{
-    background-image: url(Images/item7.webp);
+    background-image: url(Obrazky/item7.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item8{
-    background-image: url(Images/item8.webp);
+    background-image: url(Obrazky/item8.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item9{
-    background-image: url(Images/item9.webp);
+    background-image: url(Obrazky/item9.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item10{
-    background-image: url(Images/item10.webp);
+    background-image: url(Obrazky/item10.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item11{
-    background-image: url(Images/item11.webp);
+    background-image: url(Obrazky/item11.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item12{
-    background-image: url(Images/item12.jpg);
+    background-image: url(Obrazky/item12.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item13{
-    background-image: url(Images/item13.jpg);
+    background-image: url(Obrazky/item13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item14{
-    background-image: url(Images/item14.avif);
+    background-image: url(Obrazky/item14.avif);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item15{
-    background-image: url(Images/item15.webp);
+    background-image: url(Obrazky/item15.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item16{
-    background-image: url(Images/item16.jpg);
+    background-image: url(Obrazky/item16.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #item17{
-    background-image: url(Images/item17.jpg);
+    background-image: url(Obrazky/item17.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
