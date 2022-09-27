@@ -136,18 +136,6 @@ button{
     animation: fadein 0.5s ease-in;
 }
 
-.background5{
-    height: 300px;
-    width: 390px;
-    background-color: white;
-    margin: 30px;
-    padding: 10px;
-    display: block;
-    border-radius: 20px;
-    border: solid white 7px;
-    animation: fadein 0.5s ease-in;
-}
-
 #logo{
     height: 100px;
     width: 175px;
@@ -241,78 +229,6 @@ button{
 
 #item5{
     background-image: url(Obrazky/item5.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item6{
-    background-image: url(Obrazky/item6.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item7{
-    background-image: url(Obrazky/item7.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item8{
-    background-image: url(Obrazky/item8.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item9{
-    background-image: url(Obrazky/item9.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item10{
-    background-image: url(Obrazky/item10.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item11{
-    background-image: url(Obrazky/item11.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item12{
-    background-image: url(Obrazky/item12.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item13{
-    background-image: url(Obrazky/item13.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item14{
-    background-image: url(Obrazky/item14.avif);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item15{
-    background-image: url(Obrazky/item15.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item16{
-    background-image: url(Obrazky/item16.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#item17{
-    background-image: url(Obrazky/item17.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
