@@ -256,6 +256,18 @@ button{
     background-size: cover;
 }
 
+#item6{
+    background-image: url(Obrazky/item6.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#item7{
+    background-image: url(Obrazky/item7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .cena{
     height: 25px;
     width: 85px;
