@@ -192,7 +192,7 @@ button{
 
 .iteminfo{
     height: 270px;
-    width: 500px;
+    width: 600px;
     margin: 20px;
     display: flex;
     background-color: white;
@@ -206,9 +206,9 @@ button{
 }
 
 li{
-    margin: 15px;
+    margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -241,42 +241,70 @@ li{
     background-image: url(Obrazky/item1.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item2{
     background-image: url(Obrazky/item2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item3{
     background-image: url(Obrazky/item3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item4{
     background-image: url(Obrazky/item4.avif);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item5{
     background-image: url(Obrazky/item5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item6{
     background-image: url(Obrazky/item6.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 #item7{
     background-image: url(Obrazky/item7.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+}
+
+#item8{
+    background-image: url(Obrazky/item8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#item9{
+    background-image: url(Obrazky/item9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#item10{
+    background-image: url(Obrazky/item10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .cena{
