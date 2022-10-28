@@ -307,6 +307,27 @@ li{
     background-position: center;
 }
 
+#item14{
+    background-image: url(Obrazky/item14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#item15{
+    background-image: url(Obrazky/item15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#item16{
+    background-image: url(Obrazky/item16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .cena{
     height: 25px;
     width: 85px;
